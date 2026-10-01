@@ -11,7 +11,7 @@ Desarrollo aplicaciones web con Python y Django, y modelo bases de datos relacio
 ## Formación
 
 - Full Stack Python Trainee, Talento Digital (en curso)
-- Nutrición y Dietética (en curso)
+- Nutrición y Dietética, Universidad San Sebastián (en curso)
 - GCI World 2026: Data Science e IA (en curso)
 
 ## Experiencia y proyectos
