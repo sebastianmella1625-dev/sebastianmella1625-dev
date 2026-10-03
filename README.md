@@ -26,4 +26,4 @@ Aprendo rápido, documento mis proyectos para que se puedan revisar y verificar 
 
 ## Contacto
 
-- LinkedIn: [Sebastián Mella Fierro](https://www.linkedin.com/in/sebasti%C3%A1n-mella-fierro-b83573399/)
+- LinkedIn: [Sebastián Mella Fierro](https://www.linkedin.com/in/sebastian-mella-fierro/)
